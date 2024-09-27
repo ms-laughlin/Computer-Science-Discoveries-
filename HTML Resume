@@ -1,0 +1,83 @@
+<!DOCTYPE html> 
+<html>
+  <head>
+  </head>
+  <body>
+    <!-- Start Code -->
+    <!-- Title: Name and email-->
+    <h1> Kerry Laughlin</h1> 
+    <h5> Email: kerry.laughlin@edison.k12.nj.us</h5> 
+    
+    <!-- Start subheadings: Professional Experiece--> 
+    <h2> Professional Experiece </h2>
+    <h3> John Adams Middle School</h3> 
+    <h4> Teacher of Mathematics........................................................September 2023-Present</h4>
+    <!-- start unordered list for Professional Experiecne  --> 
+    <ul>
+   <li> 
+    In charge of teaching multiple levels of mathematics, primarily geometry,  while managing complex classroom dynamics including 504, IEP ELL, and gifted students.
+   </li>
+      <li>
+    Plan and facilitate engaging and rigorous lessons daily, while heavily incorporating technology into lesson plans including interactive Desmos lessons, class work, and homework
+      </li>
+    
+      <li>
+        Apply a social justice lens to the curriculum and classroom to mirror our changing community and better connect with the modern student
+      </li>
+   <li> Collaborate across departments to update school community guidelines to help build more thoughtful and inclusive classrooms
+      </li>
+   <li> Communicate with parents and students to create feedback loops
+      </li>
+    <li>Collect and analyze data three times a year to better inform instruction and set realistic goals based on student performance
+      </li> 
+    </ul> 
+    
+    <h4> Teacher of Computer Science........................................................September 2023-Present </h4> 
+   <ul>
+     <li>
+    In charge of creating and facilitating lessons aligned with the Computer Science Discovery Standards. 
+     </li>
+    <li>
+      Experience coding in HTML, JavaScript, and Pyrton. 
+     </li>
+    <li>
+     Trained by Stevens University in Hoboken to teach basic Cyber Security 
+     </li>
+     <li>
+    Create interesting and engaging lessons that pique students curiosity in coding and computers </li>
+    </ul>
+    <h2> Extra Curriculars </h2> 
+    <h4> Pep-Squad Advisor........................................................September 2023-Present </h4> 
+    <ul>
+    <li> Build strong bonds between a team while working towards a common goal 
+      </li>
+   <li> Foster community outside the classroom and connect to the students on a new level 
+      </li>
+  <li>  Lead weekly rehearsals and help oversee three assemblies and four performances for the local community</li>
+      <li>
+    Nurture a safe environment where students can try new experiences with no judgment
+      </li>
+    </ul>
+    <h4> Junior CyberKnights Advisor  Advisor.................................................................September 2023-Present </h4>
+    <ul>
+      <li> Help students explore coding and computer science beyond the 8th grade curriculum </li> 
+      <li> Work as a mentor to high school students to help them create and facilitae lessons and activities </li> 
+      <li> Encourge studetns to explore computer science on their own and create interest in continuing education</li> 
+    </ul>
+    
+<h2> Education </h2> 
+    <h4>Rutgers Graduate School of Education, New Brunswick, NJ graduated May 2021</h4>
+  <ul>
+    <li> 
+    M.A. in Education 
+    </li>
+    </ul>
+    <h4>Rutgers University, New Brunswick, NJ Graduated May 2020</h4>
+    <ul>
+      <li>B.A. in Mathematics</li>
+    </ul>
+    
+
+
+ </body>
+</html>
